@@ -13,10 +13,15 @@ This was a solo project to build an app from scratch that was a randomizer of ma
 ### Installation Instructions:
 [//]: <> (What steps does a person have to take to get your app cloned down and running?)
 
+Go to the command line or terminal on machine.
+Make sure you are in the appropriate directory you want the application in.
+Fork and run the clone command below
 git clone git@github.com:AlexOsgood/self-care-center.git
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
+
+
 
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
