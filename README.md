@@ -1,17 +1,5 @@
-# Self Care Center
-## Overview
-How can I care for myself? One way is with affirmations and mantras!
-Affirmations are thoughts of positive self-empowerment, meant to assert your self-worth.
-Mantras are repetive phrases that are repeated again and again during mindfulness practices. Your challenge is to build an app that helps users remind themselves of their inherent value!
 
 The spec for this project can be found [here](https://frontend.turing.io/projects/module-1/self-care-center.html).
-
-## Learning Goals
-
-- Gain experience building an application that utilizes HTML, CSS and JavaScript
-- Write HTML and CSS to match a provided comp
-- Understand how to listen to and respond to user events
-- Individualize your programming skill s
 
 ______________________________________________________  
 
@@ -25,7 +13,7 @@ This was a solo project to build an app from scratch that was a randomizer of ma
 ### Installation Instructions:
 [//]: <> (What steps does a person have to take to get your app cloned down and running?)
 
-
+git clone git@github.com:AlexOsgood/self-care-center.git
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
@@ -33,12 +21,19 @@ This was a solo project to build an app from scratch that was a randomizer of ma
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
 
+This project took about 30 hours in total to complete. This included all 5 working days until it was due. I am a repeater of mod 1 going into the start of week 4.
+
 ### Contributors:
 [//]: <> (Who worked on this application? Link to their GitHubs.)
+
+Alex Osgood
+https://github.com/AlexOsgood
 
 ### Learning Goals:
 [//]: <> (What were the learning goals of this project? What tech did you work with?)
 
+The goals of this were project were to gain experience building an application that utilizes HTML, CSS and JavaScrip.
+Write HTML and CSS to match a provided comparable. Understand how to listen to and respond to user events.
 
 
 ### Wins + Challenges:
