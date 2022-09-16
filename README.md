@@ -8,6 +8,8 @@ ______________________________________________________
 ### Abstract:
 [//]: <> (Briefly describe what you built and its features. What problem is the app solving? How does this application solve that problem?)
 
+Turing School Of Software And Design - Mod1.2 solo project
+
 This was a solo project to build an app from scratch that was a randomizer of mantras and affirmations. The user can click 3 buttons in order to go about picking the random quotes. This page was compared as best as possible to the original with full functionality added. The add on feature that I completed with it was a delete button feature that would allow users to delete unwanted slogans and it would remove them from the list.
 
 ### Installation Instructions:
